@@ -12,5 +12,5 @@ I'm Mateo. Mechatronics Engineering student at Universidad EIA (Envigado, Antioq
 - **[Gravitational Car](#)** — MATLAB-optimized vehicle design converting a falling mass into maximum travel distance
  
 ## 📫 Reach me
-[LinkedIn](#) · [Email](mateo.escobar.jurado@icloud.com)
+[LinkedIn](#) · Email: mateo.escobar.jurado@icloud.com
  
